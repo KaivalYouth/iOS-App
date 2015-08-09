@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>8C4A8D4F-B379-40CA-B911-4B7AD0CA37C2</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Kaival Youth</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>930942E9C873C4B0E8391F6352FAB1341FC1FE90</key>
 		<string>https://github.com/KaivalYouth/iOS-App.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Kaival Youth/Kaival Youth.xcodeproj/project.xcworkspace</string>
+	<string>Kaival Youth/Kaival Youth.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>930942E9C873C4B0E8391F6352FAB1341FC1FE90</key>

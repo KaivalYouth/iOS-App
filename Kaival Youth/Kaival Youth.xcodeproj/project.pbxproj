@@ -411,6 +411,7 @@
 				B87702AB1B76ED0100E1C89B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B87702AC1B76ED0100E1C89B /* Build configuration list for PBXNativeTarget "Kaival YouthTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				B87702AE1B76ED0100E1C89B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
