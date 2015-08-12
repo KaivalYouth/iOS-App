@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DB5FC1F3-8082-486D-B43A-A4C25486CC38</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Kaival Youth</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>930942E9C873C4B0E8391F6352FAB1341FC1FE90</key>
+		<string>https://github.com/KaivalYouth/iOS-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Kaival Youth.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>930942E9C873C4B0E8391F6352FAB1341FC1FE90</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KaivalYouth/iOS-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>930942E9C873C4B0E8391F6352FAB1341FC1FE90</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>930942E9C873C4B0E8391F6352FAB1341FC1FE90</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-App</string>
+		</dict>
+	</array>
+</dict>
+</plist>
